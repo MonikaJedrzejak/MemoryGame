@@ -1,4 +1,4 @@
-# Project Name
+# Memory Game
 
 > Simple memory game with cute images.
 > Live demo [_here_](https://kind-lichterman-d1aa49.netlify.app/).
